@@ -4294,7 +4294,7 @@
           }
         ],
         "message_in_queue_flow_id": null,
-        "name": "Kamil_Test_Queue",
+        "name": "Mateusz_Test_Queue_Terraform",
         "outbound_email_address": null,
         "outbound_messaging_sms_address_id": null,
         "queue_flow_id": null,
