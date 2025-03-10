@@ -4227,6 +4227,85 @@
         "whisper_prompt_id": null,
         "wrapup_codes": null
       },
+        "Mateusz_Test_Queue_Terraform": {
+        "acw_timeout_ms": null,
+        "acw_wrapup_prompt": "OPTIONAL",
+        "auto_answer_only": false,
+        "bullseye_rings": null,
+        "calling_party_name": null,
+        "calling_party_number": null,
+        "conditional_group_routing_rules": null,
+        "default_script_ids": null,
+        "description": "Mateusz_Test_Queue_Terraform",
+        "direct_routing": null,
+        "division_id": "223a1aba-4f9c-40a8-b6f1-9c1a56f04419",
+        "email_in_queue_flow_id": null,
+        "enable_manual_assignment": false,
+        "enable_transcription": false,
+        "groups": null,
+        "media_settings_call": [
+          {
+            "alerting_timeout_sec": 8,
+            "enable_auto_answer": false,
+            "service_level_duration_ms": 20000,
+            "service_level_percentage": 0.8
+          }
+        ],
+        "media_settings_callback": [
+          {
+            "alerting_timeout_sec": 30,
+            "enable_auto_answer": false,
+            "service_level_duration_ms": 20000,
+            "service_level_percentage": 0.8
+          }
+        ],
+        "media_settings_chat": [
+          {
+            "alerting_timeout_sec": 30,
+            "enable_auto_answer": false,
+            "service_level_duration_ms": 20000,
+            "service_level_percentage": 0.8
+          }
+        ],
+        "media_settings_email": [
+          {
+            "alerting_timeout_sec": 300,
+            "enable_auto_answer": false,
+            "service_level_duration_ms": 86400000,
+            "service_level_percentage": 0.8
+          }
+        ],
+        "media_settings_message": [
+          {
+            "alerting_timeout_sec": 30,
+            "enable_auto_answer": false,
+            "service_level_duration_ms": 20000,
+            "service_level_percentage": 0.8
+          }
+        ],
+        "members": [
+          {
+            "ring_num": 1,
+            "user_id": "bdeedde9-b6bc-4990-a5da-31348f8c0273"
+          },
+          {
+            "ring_num": 1,
+            "user_id": "eff9b4d9-ec4e-4646-a8b1-50edb67858a3"
+          }
+        ],
+        "message_in_queue_flow_id": null,
+        "name": "Kamil_Test_Queue",
+        "outbound_email_address": null,
+        "outbound_messaging_sms_address_id": null,
+        "queue_flow_id": null,
+        "routing_rules": null,
+        "skill_evaluation_method": "ALL",
+        "skill_groups": null,
+        "suppress_in_queue_call_recording": false,
+        "teams": null,
+        "whisper_prompt_id": null,
+        "wrapup_codes": null
+      },
       "Kamil_Test_Queue2": {
         "acw_timeout_ms": null,
         "acw_wrapup_prompt": "OPTIONAL",
