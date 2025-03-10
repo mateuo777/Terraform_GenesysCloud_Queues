@@ -3457,7 +3457,7 @@
         "whisper_prompt_id": null,
         "wrapup_codes": null
       },
-      "ILINDU_Q_TEL_6IL03-intern-Terraform": {
+      "ILINDU_Q_TEL_6IL03-intern": {
         "acw_timeout_ms": null,
         "acw_wrapup_prompt": "OPTIONAL",
         "auto_answer_only": true,
@@ -3466,7 +3466,7 @@
         "calling_party_number": " ",
         "conditional_group_routing_rules": null,
         "default_script_ids": null,
-        "description": "ILINDU_Q_TEL_6IL03-intern-Terraform",
+        "description": "ILINDU_Q_TEL_6IL03-intern",
         "direct_routing": null,
         "division_id": "223a1aba-4f9c-40a8-b6f1-9c1a56f04419",
         "email_in_queue_flow_id": null,
